@@ -72404,6 +72404,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.analytics.streamingworld.xyz
+.stats.bouyguestelecom.fr
 .analytics-cdn.sport.es
 .analytics.prensaiberica.es
 .analytics.azrhymes.com
@@ -76311,6 +76313,7 @@
 .accountsdoor.com
 .accurateanimal.com
 .accuratecoal.com
+.acebunny.com
 .acidicstraw.com
 .acidpigs.com
 .acquireuser.com
@@ -76578,6 +76581,7 @@
 .clarifyverse.com
 .classicnotebook.com
 .cleanhaircut.com
+.climbingright.com
 .cloisteredcurve.com
 .cloudguppy.com
 .cloudhustles.com
