@@ -710,7 +710,6 @@
 .getbutton.io
 .widget.siteheart.com
 .widget.skobeeff.ru
-.widget.surveymonkey.com
 .widget.teletype.app
 .widget.textback.io
 .widget.webica.pro
@@ -763,6 +762,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.code.tidio.co
 .omniqa.ru
 .livechat.nextop.com
 .titanembeds.com
