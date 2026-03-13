@@ -63,6 +63,8 @@
 .smetrics.telegraph.co.uk
 .https-filtering-check.adtidy.org
 .sdk.chirpyweb.com
+.wstpush-mobile.terra.com
+.martabackrock.com
 .pushkite.com
 .smbtnupsh.com
 .dashboard.bildircin.az
