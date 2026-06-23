@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.codedrink.com
 .mfilterit.net
 .metrics-web.help
 .nehalist.io
@@ -78206,6 +78207,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.collector.umogames.com
+.collector.quizzop.com
+.collector.feedzop.com
 .blink.willowmovies.com
 .stats.mappl.tv
 .performance-events.guardianapis.com
@@ -83051,6 +83055,7 @@
 .coralcranes.com
 .coralreverie.com
 .corgibeachday.com
+.correctedcode.com
 .cosmicsculptor.com
 .cosmosjackson.com
 .cosplaygalaxy.com
