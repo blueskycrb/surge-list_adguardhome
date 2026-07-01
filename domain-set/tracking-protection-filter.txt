@@ -78212,6 +78212,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.rest.comfy.ua
+.litags.feedblitz.com
 .posthog.football24.ua
 .analytics.wispbyte.com
 .trk.edf.fr
@@ -83018,6 +83020,7 @@
 .coalkitchen.com
 .coatfood.com
 .cobaltoverture.com
+.coffeefire.net
 .coffeesidehustle.com
 .coldbalance.com
 .coldcallpro.com
@@ -84012,6 +84015,7 @@
 .potatoinvention.com
 .powerfulblends.com
 .powerfulcopper.com
+.powertoolwiki.com
 .preciousplanes.com
 .precisear.com
 .predictplate.com
